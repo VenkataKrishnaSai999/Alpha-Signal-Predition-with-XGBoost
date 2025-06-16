@@ -22,7 +22,7 @@ Model training with XGBoost
 
 Evaluation and reporting
 
-📂 Dataset
+# Dataset
 The dataset (dataset.csv) contains the following columns:
 
 Column	Description
