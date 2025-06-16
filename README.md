@@ -2,7 +2,8 @@
 XGBoost Model-based Alpha Signal Prediction using Microblogging Data
 Welcome to the Alpha Signal Prediction project! This repository demonstrates a full workflow for predicting alpha signals in stock data using XGBoost, leveraging microblogging and social media-derived features. The project includes data loading, exploratory analysis, preprocessing, outlier handling, visualization, and machine learning modeling.
 
-🚀 Project Overview
+# Project Overview
+
 This project aims to classify alpha signals (1–4) for stocks based on a set of engineered features (SF1–SF7) extracted from microblogging data. The workflow includes:
 
 Data loading and inspection
@@ -134,6 +135,5 @@ Seaborn
 
 Scikit-learn
 
-Happy Predicting! 🚀
 
 For any questions or suggestions, feel free to open an issue or submit a pull request!
